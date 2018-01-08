@@ -52,8 +52,8 @@ class lianjia:
             self.aa += 1
             self.bb += 1
     def _smtp(self):
-        self.my_sender='zhanganing2006@163.com'      
-        self.my_pass = '2653522'
+        self.my_sender='zhangxxxxxx@163.com'      
+        self.my_pass = 'xxxxxx'
         self.my_user=['yichi1@staff.sina.com.cn','571235502@qq.com']
         msg=MIMEMultipart()
         msgtext=MIMEText('最近链家成交房源，请见附件','plain','utf-8')
